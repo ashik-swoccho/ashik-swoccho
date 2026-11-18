@@ -52,17 +52,7 @@
 
 ## 🌐 CONNECT WITH ME
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/ashik-swoccho](https://github.com/ashik-swoccho)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://linkedin.com/in/ashikur-rs](https://linkedin.com/in/ashikur-rs)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="mailto\:ashikurrs111\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-&#x20; \</a>
-\</p>
+\<p align="left">   \<a href="[https://github.com/ashik-swoccho](https://github.com/ashik-swoccho)" target="\_blank">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a>   \<a href="[https://linkedin.com/in/ashikur-rs](https://linkedin.com/in/ashikur-rs)" target="\_blank">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="mailto\:ashikurrs111\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>   \</a> \</p>
 
 \<br/>
 
@@ -112,20 +102,9 @@
 
 ## 📌 PINNED REPOSITORIES
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/ashik-swoccho/typescript-practice-problems-solutions-1](https://github.com/ashik-swoccho/typescript-practice-problems-solutions-1)">
-&#x20;   \<img
-&#x20;     src="[https://github-readme-stats.vercel.app/api/pin/?username=ashik-swoccho&repo=typescript-practice-problems-solutions-1&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=ashik-swoccho\&repo=typescript-practice-problems-solutions-1\&theme=tokyonight\&hide_border=true)"
-&#x20;     alt="TypeScript Practice Problems and Solutions"
-&#x20;   />
-&#x20; \</a>
-\</p>
+\<p align="center">   \<a href="[https://github.com/ashik-swoccho/typescript-practice-problems-solutions-1](https://github.com/ashik-swoccho/typescript-practice-problems-solutions-1)">     \<img       src="[https://github-readme-stats.vercel.app/api/pin/?username=ashik-swoccho&repo=typescript-practice-problems-solutions-1&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=ashik-swoccho\&repo=typescript-practice-problems-solutions-1\&theme=tokyonight\&hide_border=true)"       alt="TypeScript Practice Problems and Solutions"     />   \</a> \</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/ashik-swoccho?tab=repositories](https://github.com/ashik-swoccho?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explore Repositories"/>
-&#x20; \</a>
-\</p>
+\<p align="center">   \<a href="[https://github.com/ashik-swoccho?tab=repositories](https://github.com/ashik-swoccho?tab=repositories)">     \<img src="[https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explore Repositories"/>   \</a> \</p>
 
 \<br/>
 
@@ -139,22 +118,15 @@
 
 ### 📈 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ashik-swoccho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ashik-swoccho\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Statistics"/>
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-swoccho&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-swoccho\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/>
-\</p>
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ashik-swoccho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ashik-swoccho\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Statistics"/>   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-swoccho&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-swoccho\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/> \</p>
 
 ### 🔥 GitHub Contribution Streak
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com/?user=ashik-swoccho&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=ashik-swoccho\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
-\</p>
+\<p align="center">   \<img src="[https://streak-stats.demolab.com/?user=ashik-swoccho&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=ashik-swoccho\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/> \</p>
 
 ### 🏆 Repository Contribution Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-contributor-stats.vercel.app/api?username=ashik-swoccho&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true](https://github-contributor-stats.vercel.app/api?username=ashik-swoccho\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true\&hide_border=true)" alt="Repository Contribution Statistics"/>
-\</p>
+\<p align="center">   \<img src="[https://github-contributor-stats.vercel.app/api?username=ashik-swoccho&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true](https://github-contributor-stats.vercel.app/api?username=ashik-swoccho\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true\&hide_border=true)" alt="Repository Contribution Statistics"/> \</p>
 
 \<br/>
 
@@ -164,13 +136,9 @@
 
 \<!-- ================================================== -->
 
-\<p align="center">
-&#x20; \<b>💻 Keep Learning | Keep Building | Keep Growing 🚀\</b>
-\</p>
+\<p align="center">   \<b>💻 Keep Learning | Keep Building | Keep Growing 🚀\</b> \</p>
 
-\<p align="center">
-&#x20; Thanks for visiting my profile! 😊
-\</p>
+\<p align="center">   Thanks for visiting my profile! 😊 \</p>
 
 ---
 
